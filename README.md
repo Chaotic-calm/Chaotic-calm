@@ -1,14 +1,15 @@
 <h1 align="center"> Hi👋, I'm VAISHALI </h1> 
- <div id="header" align="right">
+ <div <h3 align="left">Exploring tech.</h3>
+      <div id="header" align="right">
  <img src="https://user-images.githubusercontent.com/118903883/211190672-87d3534f-5b57-44f3-8389-4827ed09a511.gif" width="100"/>
   </div>
- <!-- <h3 align="left">Contact Me:</h3>
-  vaishalisaini0203@gmail.com
-<!--<h3 align="left">Languages known:</h3>
 
-<!--<p align="left">
- <a href="https://www.cprogramming.com/"target="_blank" rel="noreferrer"><img src="https://www.raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
- </p>
+<h3 align="left">Languages known:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaotic-calm&show_icons=true&locale=en&layout=compact" alt="chaotic-calm" /></p>
+
+
 <!--
 **Chaotic-calm/Chaotic-calm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
