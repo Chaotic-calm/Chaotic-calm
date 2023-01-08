@@ -1,7 +1,6 @@
 <h1 align="center"> Hi👋, I'm VAISHALI </h1> 
  <div id="header" align="center">
-   
-![computer-work](https://user-images.githubusercontent.com/118903883/211190672-87d3534f-5b57-44f3-8389-4827ed09a511.gif) 
+ <img src="https://user-images.githubusercontent.com/118903883/211190672-87d3534f-5b57-44f3-8389-4827ed09a511.gif" width="100"/>
   </div>
 
 
