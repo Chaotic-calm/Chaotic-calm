@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, VAISHALI here 👋
+ 
+<div id="header" align="center">
+  <img src="https://images.app.goo.gl/X9gf8pYi1vAiKD2y8" width="100"/>
+  </div>
 
 <!--
 **Chaotic-calm/Chaotic-calm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
